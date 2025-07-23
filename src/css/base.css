@@ -30,3 +30,8 @@ main {
 main:has(.back-link) {
   text-align: center;
 }
+
+input, textarea {
+  outline: none;
+  box-sizing: border-box;
+}
